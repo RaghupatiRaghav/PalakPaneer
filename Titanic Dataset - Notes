@@ -17,7 +17,8 @@ EDA Data: - Matplotlib, Seaborn
 Manak bar graph of place of boarding for each pclass
 Manvi survival vs gender and age 
 Raghav avg age of males and females
-Raghav avg age of males and females in diff pclass
+green Raghav avg age of males and females in diff pclass
+green Raghav difference in survival rates in males and females of diff pclass
 Manak pclass ka survival
 Manvi avg fare of pclass
 Manvi cabin and survival within each pclass
@@ -26,7 +27,7 @@ Manak sibsp and survival
 Manak parch and sibsp within each pclass
 Raghav sibsp+parch = total family, survival and total family correlation 
 red ticket number - does pool of people survive with family?
-Raghav sex, age and pclass ko combine karke make a bar graph
+green Raghav sex, age and pclass ko combine karke make a bar graph
 
 
 Cleaning and Processing Data: - Pandas
