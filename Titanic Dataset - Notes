@@ -1,0 +1,39 @@
+Titanic Dataset - Notes
+
+
+Git workflow:
+1. Git pull <remote url>
+2. Git add . 
+3. Git commit -m "commit message"
+4. Git push origin master - If error, run git pull again and then run git push 
+
+Understanding Data:
+SibSp: spouses or sibling
+Parch: bacho ke liye parch is no of parents on board, parents ke liye parch is no of bache on board
+Many people are travelling on the same ticket, in most cases, these people will be related.
+
+
+EDA Data: - Matplotlib, Seaborn
+Manak bar graph of place of boarding for each pclass
+Manvi survival vs gender and age 
+Raghav avg age of males and females
+green Raghav avg age of males and females in diff pclass
+green Raghav difference in survival rates in males and females of diff pclass
+Manak pclass ka survival
+Manvi avg fare of pclass
+Manvi cabin and survival within each pclass
+Manak parch and survival 
+Manak sibsp and survival
+Manak parch and sibsp within each pclass
+Raghav sibsp+parch = total family, survival and total family correlation 
+red ticket number - does pool of people survive with family?
+green Raghav sex, age and pclass ko combine karke make a bar graph
+
+
+Cleaning and Processing Data: - Pandas
+
+Manvi fill rate
+Raghav separate name column into first name, title and the rest of the name 
+Manak Numerical flags for gender and embarked variables
+
+missing values - before applying the algo 
