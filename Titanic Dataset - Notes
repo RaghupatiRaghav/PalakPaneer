@@ -1,4 +1,4 @@
-Titanic Dataset - Notes
+Titanic - Notes
 
 
 Git workflow:
@@ -42,4 +42,28 @@ manak remove the col with low fill rate, remove missing values
 raghav pipeline random forest
 manvi pipeline random forest - confusion matrix
 
- 
+ age fill rate and fare fill rate
+ tracker for d/f models
+
+
+
+suggestions: 
+1. prepare train and test dfs - 
+2. take the input and run rf and generate submission files - raghav
+
+1. remove passenger id - manak
+2. can remove fare - manak
+3. pclass without dummies - manak
+4. gender without dummies - manak
+5. feature engin - gender*pclass - raghav
+g = 1, pclass = 1, new_var = 1
+baseline accuracy - manvi
+make a markdown file for notes - manvi
+
+6. impute missing values in train - raghav
+
+modify number of trees
+
+
+
+
