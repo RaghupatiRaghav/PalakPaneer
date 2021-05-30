@@ -41,18 +41,18 @@ Git push origin master - If error, run git pull again and then run git push
  - tracker for d/f models
 
 ## Suggestions: 
-- prepare train and test dfs - all
-- take the input and run rf and generate submission files - Raghav
+- prepare train and test dfs - all - done
+- take the input and run rf and generate submission files - Raghav - done
 - remove passenger id - Manak
 - can remove fare - Manak
 - pclass without dummies - Manak
 - gender without dummies - Manak
-- feature engin - gender*pclass - Raghav
+- feature engin - gender*pclass - Raghav -done
 - g = 1, pclass = 1, new_var = 1
 - baseline accuracy - Manvi
-- make a markdown file for notes - Manvi
-- impute missing values in train - Raghav
-- modify number of trees
+- make a markdown file for notes - Manvi - done
+- impute missing values in train - Raghav - done
+- modify number of trees 
 
 
 
