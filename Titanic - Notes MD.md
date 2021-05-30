@@ -52,7 +52,19 @@ Git push origin master - If error, run git pull again and then run git push
 - baseline accuracy - Manvi
 - make a markdown file for notes - Manvi - done
 - impute missing values in train - Raghav - done
-- modify number of trees 
+- modify number of trees - done
+
+- male, female me se include one - done
+- remove parch and sibsp - done
+- remove pid and then append later - done
+
+- female ** age - Manvi & Manak
+- visualization of random forest trees - Raghav
+- play with hyperparameters and grid search - running
+- OLS pipeline - Manak and Manvi
+
+
+
 
 
 
