@@ -1,11 +1,11 @@
 # Titanic - Notes
 
 
->**Git Workflow:**
->Git pull <remote url>
->Git add . 
->Git commit -m "commit message"
->Git push origin master - If error, run git pull again and then run git push 
+**Git Workflow:**
+Git pull <remote url>
+Git add . 
+Git commit -m "commit message"
+Git push origin master - If error, run git pull again and then run git push 
 
 
 ## Understanding Data:
@@ -41,7 +41,7 @@
  - tracker for d/f models
 
 ## Suggestions: 
-- prepare train and test dfs - 
+- prepare train and test dfs - all
 - take the input and run rf and generate submission files - Raghav
 - remove passenger id - Manak
 - can remove fare - Manak
