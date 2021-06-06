@@ -58,9 +58,9 @@ Git push origin master - If error, run git pull again and then run git push
 - remove parch and sibsp - done
 - remove pid and then append later - done
 
-- female ** age - divide age in buckets - Manvi & Manak
+- female ** age - Manvi & Manak
 - visualization of random forest trees - Raghav
-- play with hyperparameters and grid search and random search - done - poor performance
+- play with hyperparameters and grid search - running
 - OLS pipeline - Manak and Manvi
 
 
